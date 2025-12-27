@@ -18,7 +18,7 @@ It is trained on the Cool Textz English dataset [the Cool Textz English dataset]
    
       ```python splitter.py ```
 
-3. done.
+3. code will run and save model tokens to ```bpe_tokenizer.json ```
 
 
 
