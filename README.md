@@ -12,7 +12,19 @@ It is trained on the Cool Textz English dataset [the Cool Textz English dataset]
 ## How to Use
 1. Clone the repository:
    
-   ```
-git clone E-songo-E/SimpleTokenizerV2.git
+   ```git clone E-songo-E/SimpleTokenizerV2.git ```
 
-```
+2. Train model with python using dataset (copy included)
+   
+      ```python splitter.py ```
+
+3. done.
+
+
+
+
+   ## IMPORTANT NOTICES
+
+   The open dataset used is mine and DISTRIBUTED UNDER APACHE 2.0
+
+   leave credit to dataset when use.
