@@ -25,6 +25,6 @@ It is trained on the Cool Textz English dataset [the Cool Textz English dataset]
 
    ## IMPORTANT NOTICES
 
-   The [open dataset used](https://huggingface.co/datasets/cosodavvero/cool-textz-english).. is mine and DISTRIBUTED UNDER APACHE 2.0
+   The [open dataset used](https://huggingface.co/datasets/cosodavvero/cool-textz-english) is mine and DISTRIBUTED UNDER APACHE 2.0
 
    leave credit to dataset when use.
